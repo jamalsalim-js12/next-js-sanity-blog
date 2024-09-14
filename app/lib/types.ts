@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 export type SimpleBlogCard = {
   title: string;
   smallDescription: string;
